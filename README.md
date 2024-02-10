@@ -41,8 +41,10 @@ JATE is a simple text editor application built using modern web technologies. It
 5. **Access the Application:** Open your web browser and go to `http://localhost:3002`
 
 ## Demo
-- **Live Demo:** [Here]
-- **Video Demo:** [Here]
+- **Live Demo:** [Here -> https://jate-by-jake.onrender.com](https://jate-by-jake.onrender.com/)
+- **Image Demo:**
+  ![image](https://github.com/Jakefred6/text-editor/assets/142133969/ae70be75-175e-41ea-a15c-a635e138368e)
+
 
 ## Contribution
 Contributions are welcome! Please follow these guidelines:
