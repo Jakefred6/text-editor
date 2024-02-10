@@ -8,6 +8,10 @@
   --navbar-height: 50px;
 }
 
+.CodeMirror{
+  height: 100% !important;
+}
+
 body {
   margin: 0;
   background-color: var(--monoaki);
