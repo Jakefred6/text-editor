@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&width=435&lines=++Just+Another+Text+Editor;JATE+by+JAKE)](https://git.io/typing-svg)  
+
+---
 # Just Another Text Editor (JATE)  [![MIT](https://img.shields.io/badge/License-MIT-blue)](#license) -  📝
 
 **Table of Contents**
