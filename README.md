@@ -43,7 +43,8 @@ JATE is a simple text editor application built using modern web technologies. It
 ## Demo
 - **Live Demo:** [Here -> https://jate-by-jake.onrender.com](https://jate-by-jake.onrender.com/)
 - **Image Demo:**
-  ![image](https://github.com/Jakefred6/text-editor/assets/142133969/ae70be75-175e-41ea-a15c-a635e138368e)
+- ![image](https://github.com/Jakefred6/text-editor/assets/142133969/5be850af-64ca-451a-aad4-5146aceb9515)
+
 
 
 ## Contribution
